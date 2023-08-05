@@ -1,0 +1,14 @@
+body[data-theme='light'] {
+  /* Light mode styles */
+  background-color: aliceblue; /* Add your light mode background color here */
+  color: #000; /* Add your light mode text color here */
+}
+
+body[data-theme='dark'] {
+  /* Dark mode styles */
+  background-color: black; /* Add your dark mode background color here */
+  color: #fff; /* Add your dark mode text color here */
+}
+
+
+

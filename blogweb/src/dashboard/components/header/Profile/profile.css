@@ -1,0 +1,19 @@
+.gradients-custom {
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1))
+  }
+
+.custom{
+  background: linear-gradient(to right bottom, rgb(249, 230, 169), rgb(246, 214, 205))
+}
+
+.color{
+  background: linear-gradient(to right bottom, rgb(225, 243, 183), rgb(228, 171, 156))
+
+}
+.log{
+  background: linear-gradient(to right bottom, rgb(210, 178, 235), rgb(243, 127, 97))
+
+}
+

@@ -1,0 +1,14 @@
+.beige {
+    background-color: 	#fbf3cd; /* Replace with your desired color code */
+    /* You can also specify additional styles like text color, border, etc. */
+  }
+
+  .color{
+    background: linear-gradient(to right bottom, rgb(225, 243, 183), rgb(228, 171, 156))
+  
+  }
+
+  .log{
+    background: linear-gradient(to right bottom, rgb(210, 178, 235), rgb(243, 127, 97))
+  
+  }
